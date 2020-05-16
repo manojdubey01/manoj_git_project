@@ -1,0 +1,7 @@
+Hello, welcome to Durgahari Kitchen!!!
+
+Recipes available:
+1. Khichdi
+2. Kheer
+3. Gajar ka Halwa
+4. Dal dulhan
